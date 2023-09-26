@@ -1,7 +1,7 @@
 ---
 title: Đev Blog
 hero:
-  title: Site
+  title: Đev Blog
   description: Đev Blog
   actions:
     - text: Hello

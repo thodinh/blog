@@ -4,7 +4,7 @@
   "description": "A static site based on dumi",
   "license": "MIT",
   "scripts": {
-    "build": "dumi build",
+    "build": "dumi build && mv dist docs",
     "dev": "dumi dev",
     "prepare": "husky install && dumi setup",
     "start": "npm run dev"
